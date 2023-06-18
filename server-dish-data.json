@@ -1,0 +1,168 @@
+[
+    {
+        "id": "1",
+        "like": 24,
+        "uploader": {
+            "name": "Kevin Tan",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/001/840/618/original/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg"
+        },
+        "dish": "韭菜蛋煎餅",
+        "servings": 2,
+        "timespent": "10mins",
+        "image": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/439043/9de85cd2e7780842.jpg",
+        "description": "冬天過去，雪融了，天氣暖和後，家裡菜園裡的韭菜也開始全部冒出來了。說到韭菜，不得不說韭菜對我而言大概是全世界最好種且投資報酬率最高的蔬菜。不用管它，自己就長得快長得好，也不用擔心有蟲害，連在乾熱到嚇死人的內華達沙漠都可以長得這麼好，真的不簡單!採收一堆韭菜，做些韭菜蛋煎餅給孩子當早餐吃，美味營養又健康。",
+        "ingredients": [
+            [
+                "油",
+                "1-2大匙"
+            ],
+            [
+                "韭菜末",
+                "2杯"
+            ],
+            [
+                "蛋",
+                "5顆"
+            ],
+            [
+                "中筋麵粉",
+                "2/3杯"
+            ],
+            [
+                "原味或辣味新和成春胡椒鹽",
+                "¼-½小匙"
+            ],
+            [
+                "糖",
+                "一咪咪"
+            ],
+            [
+                "水",
+                "1-2大匙"
+            ]
+        ],
+        "step": [
+            "將中筋麵粉倒入韭菜末中，攪拌均勻，打入雞蛋，加入鹽糖與新和春胡椒鹽，與1大匙水，再次混合均勻後備用。",
+            "熱平底鍋，放入油加熱，用勺子將韭菜蛋粉液舀入平底鍋中，用廚房矽膠匙塑形平整，將每個煎餅整成約銅鑼燒大小。",
+            "炒煎至底部成型顏色金黃後，翻面再煎，雙面金黃且熟透即可出鍋"
+        ],
+        "notes": "Ling的廚房碎碎念 1.麵糊裡也可加入少許的肉末或切細碎的蝦仁或花枝，會更好吃，但是煎的時間要加長。 2.沒有新和春胡椒鹽的朋友，可以用鹽加點白胡椒粉與五香粉替代哦。 3.喜歡軟口感餅皮的朋友，水的用量可以再增加。"
+    },
+    {
+        "id": "2",
+        "like": 19,
+        "uploader": {
+            "name": "Michelle Kim",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/001/840/618/original/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg"
+        },
+        "dish": "南瓜咖喱",
+        "servings": 2,
+        "timespent": "40mins",
+        "image": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/437953/697a27b794261270.jpg",
+        "description": "南瓜的甜，讓咖喱變得好美味😋，連討人厭的紅蘿蔔都變得好好吃",
+        "ingredients": [
+            [
+                "豬絞肉",
+                "600克"
+            ],
+            [
+                "洋蔥",
+                "1顆"
+            ],
+            [
+                "南瓜",
+                "1/2顆"
+            ],
+            [
+                "紅蘿蔔",
+                "1根"
+            ],
+            [
+                "蒜頭",
+                "5瓣"
+            ],
+            [
+                "咖喱塊",
+                "1/2盒"
+            ],
+            [
+                "燴飯塊",
+                "1/2盒"
+            ],
+            [
+                "水",
+                "1公升"
+            ],
+            [
+                "咖哩粉",
+                "1大匙"
+            ]
+        ],
+        "step": [
+            "洋蔥、蒜頭切碎，紅蘿蔔切小丁",
+            "熱油將洋蔥、蒜頭炒香",
+            "倒入咖哩粉拌炒",
+            "放入絞肉炒散",
+            "放入紅蘿蔔丁炒到軟",
+            "將蒸熟的南瓜壓成泥，趁熱將咖喱塊、燴飯塊拌入到化開，再倒回鍋內加水煮滾",
+            "放入鴻禧菇煮熟就完成囉。"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "3",
+        "like": 8,
+        "uploader": {
+            "name": "Daniel Lee",
+            "avatar": "https://static.vecteezy.com/system/resources/previews/001/840/618/original/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg"
+        },
+        "dish": "肉絲蛋炒飯",
+        "servings": 1,
+        "timespent": "10mins",
+        "image": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/436994/9da5791078f1b11c.jpg",
+        "description": "家常蛋炒飯，先炒料再下飯，粒粒分明不黏鍋底！",
+        "ingredients": [
+            [
+                "雞蛋",
+                "2顆"
+            ],
+            [
+                "蒜頭",
+                "2瓣"
+            ],
+            [
+                "肉絲",
+                "適量"
+            ],
+            [
+                "白飯或隔夜飯",
+                "2碗"
+            ],
+            [
+                "蔥花",
+                "適量"
+            ],
+            [
+                "醬油",
+                "1匙"
+            ],
+            [
+                "鹽巴",
+                "適量"
+            ],
+            [
+                "黑胡椒粒",
+                "適量"
+            ]
+        ],
+        "step": [
+            "先炒蛋，蛋呈7分熟盛盤備用。",
+            "放入蒜頭爆香，並加入稍微抓醃過的肉絲，靜待熟成後翻炒。*肉絲事前用醬油抓醃，靜置10分鐘即可使用。",
+            "加入鏟鬆的白飯翻炒。*不論是隔夜飯或是剛煮好的白飯都可以，白飯現煮的話米水比例抓1:0.9才不會過濕。",
+            "加入炒蛋大火迅速翻炒，若覺得不夠鹹，此階段可以加入鹽巴調味。",
+            "最後加入蔥花灑上黑胡椒粒拌勻即可關火上桌！",
+            "開動！"
+        ],
+        "notes": ""
+    }
+]
